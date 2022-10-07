@@ -1,0 +1,45 @@
+.col-md-4 {
+    margin-top: 50px;
+}
+
+a {
+    margin-top: 20px;
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.4;
+    color: rgb(14, 195, 8);
+    text-decoration: underline;
+}
+
+#form {
+    border: 1px solid;
+    padding-bottom: 20px;
+    border-radius: 3px;
+}
+
+#formHeader {
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+    background-color: gray;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+
+.text-left {
+    margin-bottom: 10px;
+}
+
+#loginSubmit {
+    margin-bottom: 20px;
+}
+
+#registerSubmit {
+    margin-bottom: 20px;
+}
